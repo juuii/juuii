@@ -1,4 +1,4 @@
-## 성실하고, 성찰하고, 성장하는 개발자 정주이입니다. 😊
+# 성실하고, 성찰하고, 성장하는 개발자 정주이입니다. 😊
 
 ### 💪 Skills
 
@@ -25,6 +25,8 @@
 <a><img src="https://img.shields.io/badge/ERMaster-F3D476?style=flat-square&logoColor=fff"/></a>
 <a><img src="https://img.shields.io/badge/eXERD-E51C1B?style=flat-square&logoColor=fff"/></a>
 
+##
+
 ### 🖥️ Development Environment
 
 #### OS
@@ -46,13 +48,12 @@
 <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff"/></a>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff"/></a>
 
-### ➕ etc.
-<a><img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=Figma&logoColor=fff"/></a>
+##
+
+### ⚙️ VCS
 <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff"/></a>
 <a><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=fff"/></a>
 <a><img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=fff"/></a>
-<a><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff"/></a>
-<a><img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=fff"/></a>
 
 <!--
 **juuii/juuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
