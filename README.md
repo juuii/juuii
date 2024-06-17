@@ -1,4 +1,4 @@
-## hi there 😊
+## 성실하고, 성찰하고, 성장하는 개발자 정주이입니다. 😊
 
 <!--
 **juuii/juuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
