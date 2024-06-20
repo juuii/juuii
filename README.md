@@ -1,4 +1,10 @@
+<img src="https://github.com/juuii/juuii/assets/170019232/35a8d136-4156-429a-8884-0f91fc7b4b90" width="1000px" height="280px" overflow="hidden" object-fit="cover">
+
 <div align="center">
+
+<div width="100px" height="200px" overflow="hidden" display="flex" justify-content="center" align-items="center>
+<img src="https://github.com/juuii/juuii/assets/170019232/35a8d136-4156-429a-8884-0f91fc7b4b90" width="auto" height="100%" object-fit="cover">
+</div>
 
 # 안녕하세요. <br/> 성실하고, 성찰하고, 성장하는 개발자 정주이입니다 😊
 
